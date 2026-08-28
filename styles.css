@@ -1,81 +1,80 @@
 body {
-            margin: 0;
-            font-family: "Times New Roman", serif;
-        }
+	margin: 0;
+    font-family: "Times New Roman", serif;
+}
 
-        h2 {
-            text-align: center;
-            margin: 8px 0 0 0;
-            font-size: 20px;
-        }
+h2 {
+	text-align: center;
+    margin: 8px 0 0 0;
+	font-size: 20px;
+}
 
-        table.middle {
-            width: 80%;
-            margin-left: auto;
-            margin-right: auto;
-            border: 1px solid black;
-            border-spacing: 1px;
-            padding: 1px;
-        }
+table.middle {
+	width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid black;
+    border-spacing: 1px;
+    padding: 1px;
+}
 
-        table.middle td {
-            border: 1px solid black;
-            padding: 1px;
-        }
+table.middle td {
+	border: 1px solid black;
+    padding: 1px;
+}
 
-        .center {
-            text-align: center;
-        }
+.center {
+	text-align: center;
+}
 
-        .right {
-            text-align: right;
-        }
+.right {
+	text-align: right;
+}
 
-        .green {
-            background-color: green;
-        }
+.green {
+	background-color: green;
+}
 
-        .blue {
-            background-color: blue;
-        }
+.blue {
+	background-color: blue;
+}
 
-        /* TABLE 1 */
-        #table-1 {
-            height: 90px;
-        }
+        
+#table-1 {
+	height: 90px;
+}
 
-        #table-1 td {
-            width: 33.33%;
-            font-size: 18px;
-        }
+#table-1 td {
+	width: 33.33%;
+    font-size: 18px;
+}
 
-        /* TABLE 2 */
-        #table-2 {
-            height: 175px;
-            margin-top: 62px;
-        }
+#table-2 {
+	height: 175px;
+    margin-top: 62px;
+}
 
-        #table-2 td {
-            height: 25px;
-        }
+#table-2 td {
+	height: 25px;
+}
 
-        /* TABLE 3 */
-        #table-3 {
-            height: 305px;
-            margin-top: 62px;
-        }
+ 
+#table-3 {
+	height: 305px;
+    margin-top: 62px;
+}
 
-        #table-3 td {
-            height: 30px;
-        }
+#table-3 td {
+	height: 30px;
+}
 
-        #t-image {
-            text-align: center;
-            vertical-align: middle;
-        }
+#t-image {
+	text-align: center;
+    vertical-align: middle;
+}
 
-        #t-image img {
-            width: 340px;
-            height: 235px;
-            object-fit: cover;
-        }
+#t-image img {
+	width: 340px;
+    height: 235px;
+    object-fit: cover;
+}
